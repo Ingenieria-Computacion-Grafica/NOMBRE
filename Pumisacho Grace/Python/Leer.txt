@@ -1,0 +1,1 @@
+Se presentan ejercicios bàsicos realizados en Python
